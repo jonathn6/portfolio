@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+}
+img {
+    border-radius: 50%;
+    max-width: 25%;
+    height: auto;
+  }
+  .center {
+      text-align: center;
+  }
+  .underline {
+      text-underline-position: below;
+      text-decoration: underline;
+      text-decoration-style: solid;
+      
+  }
